@@ -1,0 +1,27 @@
+body{
+    background: #0A1C24;
+}
+h1{
+    width: 591px;
+    margin: 15px auto;
+    padding: 20px;
+    font-size: 40px;
+    text-align: center;
+    background: #C8D8DE;
+    
+}
+    div{
+    width: 550px;
+    margin: 20px auto;
+    background: #C0C1C2;
+    padding: 10px 40px;
+}
+    .p{
+        background: #E8F9FF;
+/*         margin: 15px 40px; */
+        padding: 10px 20px;
+        overflow: hidden;
+        font-size: 20px;
+        
+    }
+
